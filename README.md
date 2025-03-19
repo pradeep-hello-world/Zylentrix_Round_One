@@ -30,7 +30,8 @@ This app fetches posts from the JSONPlaceholder API.
 url -- https://jsonplaceholder.typicode.com/posts
 
 ## Response Example
-```[
+```
+[
   {
     "userId": 1,
     "id": 1,
